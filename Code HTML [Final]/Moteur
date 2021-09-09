@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Caractéristiques des moteurs </title>
+<link rel="stylesheet" href="style.css">
+<meta charset="utf-8">
+</head>
+<body link="purple" alink="purple" vlink="purple">
+<h1 align="center"> Caractéristiques des Mini-Moteurs </h1>
+<img src="Moteur.jpg" alt="Caractéristiques des moteurs">
+<br> <h2><u>Tableau des caractéristiques de nos deux mini-moteurs 244163 selon le fabriquant</h2></u>
+
+<h4 align="center"> <font size=5>Moteur électrique à courant</font> </h4>
+L’avantage du moteur à courant continu est de pouvoir facilement régler la vitesse de rotation de celui-ci. Le moteur à courant continu est alimenté par des batteries ou des piles. Ce genre de moteurs électriques sont utilisés sur de petits outils tels que des appareils électroportatifs sans fil. Le principal problème de ces moteurs vient de la liaison entre les balais, ou « charbons » et le collecteur rotatif. Ces inconvénients ont été partiellement résolus par des moteurs disques ou des moteurs cloches qui ne possèdent aucun fer au rotor, mais qui par contre possèdent toujours des balais. Par la suite, les inconvénients ci-dessus ont été radicalement éliminés grâce à la technologie du moteur brushless, aussi dénommé « moteur à courant continu sans balais », ou moteur sans balais.
+<h4 align="center"> <font size=5>Moteur électrique universel</font> </h4>
+Un moteur universel est un moteur électrique fonctionnant sur le même principe qu'une machine à courant continu à excitation série. Le rotor est connecté en série avec l'enroulement de l’inducteur. Il peut donc être alimenté indifféremment en courant continu ou en courant alternatif, d'où son appellation. D'une manière générale, le rendement de ce type de machine est mauvais, mais leur coût de fabrication est minime. Ce genre de moteur électrique est utilisé sur de petits et moyens électroménagers, perceuses, aspirateurs et outillages électroportatifs de faible puissance.
+<h4 align="center"> <font size=5>Moteur électrique asynchrone</font> </h4>
+Le moteur électrique asynchrone est le plus répandu des moteurs alternatifs. Le moteur asynchrone, connu également sous le terme " anglo-saxon " de moteur à induction , est un moteur à courant alternatif sans connexion entre le stator et le rotor. Le terme asynchrone provient du fait que la vitesse de ces moteurs n'est pas forcément proportionnelle à la fréquence des courants qui la traversent. Le moteur asynchrone est uniquement alimenté par un courant alternatif triphasé. Il a la particularité d'être robuste et simple. Le moteur asynchrone est aujourd'hui le moteur électrique le plus utilisé, car sa gamme de puissance peut aller de quelques centaines de watts à plusieurs milliers de kilowatts. Ce genre de moteur électrique est utilisé sur des machines-outils tels que des nettoyeurs à haute pression.
+<h4 align="center"> <font size=5>Moteur électrique synchrone</font> </h4>
+Le moteur synchrone existe dans deux versions soit bobinées pour les fortes puissances et à aimant pour les entraînements à hautes performances. Le terme de moteur synchrone regroupe toutes les machines dont la vitesse de "rotation de l'arbre de sortie" est égale à la vitesse de "rotation du champ tournant". Les moteurs électriques synchrones sont généralement des moteurs triphasés. Le rotor, souvent appelé « roue polaire », est alimenté par une source continue ou équipé d'aimants permanents. Le moteur synchrone est souvent utilisé comme génératrice. On l'appelle alors « alternateur ».
+<h4 align="center"> <font size=5>Moteur à réluctance variable</font> </h4>
+Le moteur à réluctance variable possède un dispositif prometteur et est toujours en développement. Il s'agit d'un moteur qui comporte un rotor à encoches se positionnant dans la direction de la plus faible réluctance. Ce rotor, en fer doux, comporte moins de dents qu'il n'y a de pôles au stator. Le rotor étant en fer doux, son mouvement est indépendant du sens d'alimentation des différentes phases. Le choix de la séquence d'alimentation détermine son sens de rotation. Le fonctionnement du moteur est assuré par un pilotage du type unipolaire et l'avance du rotor est obtenu en excitant tour à tour une paire de pôles.
+Moteur pas à pas.
+Les moteurs pas à pas sont de petits moteurs de précision dotés d’un système de commande électronique. Un moteur pas à pas permet de transformer une impulsion électrique en un mouvement angulaire. Ce type de moteur est très courant dans tous les dispositifs où l'on souhaite faire un contrôle de vitesse ou de position en boucle ouverte, typiquement dans les systèmes de positionnement. L'usage le plus connu du grand public est dans les imprimantes et les lecteurs CD.
+Il existe 3 types de moteur pas à pas.
+le moteur à réluctance variable.
+le moteur à aimants permanents.
+le moteur hybride, qui est une combinaison des deux technologies précédentes.
+<h4 align="center"> <font size=5>Moteur linéaires</font> </h4>
+Un moteur linéaire est essentiellement un moteur asynchrone. Dans celui-ci le rotor « a été déroulé » de sorte qu'au lieu de produire un couple de rotation, il produit une force linéaire sur sa longueur en installant un champ électromagnétique de déplacement.  Les moteurs linéaires sont des moteurs à entraînements directs électromagnétiques. Les déplacements linéaires sont réalisés sans avoir recours à des réducteurs mécaniques donc il en résulte aucune usure de pièce. Le moteur est composé de deux pièces: le slider (partie mobile) et le stator. Le slider comprend des aimants en montés dans un tube de précision en acier inoxydable. Le stator comprend les bobinages du moteur, le guidage du slider, et un microprocesseur intégré qui assurent les fonctions de mesure de position, la commutation et la surveillance de la température du moteur.
+Il existe 2 types de moteur linéaire.
+Ceux à accélération faible utilisés dans le transport aussi bien le Transrapid que le SkyTrain.
+Ceux à accélération rapide dans les armes comme le canon magnétique et les engins spatiaux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

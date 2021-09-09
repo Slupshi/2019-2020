@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Plan de la maquette </title>
+<link rel="stylesheet" href="style.css">
+<meta charset="utf-8">
+</head>
+<body link="purple" alink="purple" vlink="purple">
+<h1 align="center">Plan de la maquette</h1>
+<img src="Plan.jpg" alt="Plan de notre maquette"><img src="Front.png" alt="Maquette vue du dessus"><img src="Back.png" alt="Maquette vue du dessous">
+<h2> Toutes les cotations présentes sont en centimètre</h2>
+<h3><u> Matériels nécessaires :</u></h3>
+<big>■</big> Une plaque de bois contre-plaquée découpée dans les mesures ci-dessus ↑
+<br><big>■ </big>Carte Arduino UNO
+<br><big>■</big> Une carte Arduino Motor Shield
+<br><big>■ </big>Deux Mini-moteurs 244163 <a href="Moteur"> Cliquez pour voir les caractéristiques précises des moteurs </a>
+<br><big>■</big> Deux Capteurs Ultrasons HC-SR04
+<br><big>■</big> Une roue folle
+<br><big>■</big> Deux grosses roues
+<br><big>■</big> Une plaque d'essaie
+<br><big>■</big> Quelques fils
+<br><big>■</big> Un support pour piles
+<br><big>■</big> Une alimentation de 9V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+body
+{ color: white;
+background-color: gray;
+}
+h1
+{ color: white;
+background-color: black;
+}
+h2
+{ color: black;
+}
+h3
+{ color: black;
+}
+s
+{ color: gray;
+}
+u
+{ color: black;
+}
+hr
+{ color: black;
+background-color: black;
+}
+h4
+{ color: white;
+background-color: black;
+}
+big
+{ color: cyan;
+}

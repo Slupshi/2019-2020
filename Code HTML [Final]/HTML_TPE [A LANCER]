@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> TPE Voiture Autonome </title>
+<link rel="stylesheet" href="style.css">
+<meta charset="utf-8">
+
+</head>
+<body link="purple" alink="purple" vlink="purple">
+	<u><h1 align="center"> TPE sur la Voiture Autonome</h1></u>
+
+	<h2> <u>Notre problématique étant:<br><big> Comment les progrès numériques permettent de rendre un véhicule autonome en toute sécurité ?</big><br>Sur cette page, nous allons parler de plusieurs sujets :</u> <br> - L'historique de la voiture autonome <br> - Ses atouts et ses inconvénients <br> - Les législations et la Classification <br> - Sa conception</h2>
+<hr size="10">
+	<h3><u> Commençons par l'historique de la voiture autonome : </u></h3>
+	 <big>•</big> Les premieres tentatives de vehicule autonome ont debutées dans les années 1970</ul>
+	<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Navlab-1-5-autonomous-vehicles.jpg/229px-Navlab-1-5-autonomous-vehicles.jpg" alt="Vehicule Navlab 1 à 5">
+	<br> <b><u>Véhicules Navlab 1 à 5</u></b></p>
+	<p> <big>•</big> Navlab 1, le moins récent, date de 1984. Navlab 5, le plus récent présent sur la photo, date de 1995 et a été le premier vehicule autonome a circulé d'une côte à l'autre des Etats-Unis.
+	<br> <big>•</big> En 1977, un laboratoire de robotique Japonnais a fait fonctionné un vehicule autonome sur un circuit dedié. Suivi realisé, par reconnaissance du marquage au sol, à la vitesse de 30 km/h.
+	<br> <big>•</big> En 1984, une marque Allemande a testée une camionnette automatique équipée de caméras. Expérience réalisée sur un réseau routier sans trafic à la vitesse de 100 km/h.
+	<br><big> •</big> En 1994, deux véhicules autonomes, pilotés par logiciels, ont été testés en conditions réelles sur une autoroute. Les deux véhicules étaient capables de réaliser une conduite en file, un changement de file et un dépassement. Experience réalisée à la vitesse de 130 km/h.
+	<br> <big>•</big> En 1995, un véhicule autonome réalisa un trajet de 1600 km avec une vitesse maximum de 175 km/h. La plus longue section de conduite automatique continue était de 158 km.
+	
+	<h3>Poursuivons par les atouts et les inconvéniants
+	<br>En termes d'accidentalogie, les statistiques révèlent que 90% des accidents de la route sont liés à une erreur humaine.
+	<br> <u><b>La généralisation des voitures autonomes pourrait permettre :</u></b></h3>
+	<big>•</big> Une réduction des accidents, du fait d'un meilleur temps de réaction et d'une plus grande fiabilité des systèmes informatisés
+	<br> <big>•</big> D'être seul en voiture sans avoir à conduire (Sans avoir le permis/Sans être en état de conduire)
+	<br><big> •</big> Une plus grand efficacité énergétique, ce qui aurait pour conséquence une moindre pollution
+
+	<h3><b><u> Malgré ces avantages, certains défis demeurent :</u></b></h3>
+	<big>•</big> Le piratage informatique des voitures, ciblé contre un véhicule, ou contre toute une flotte simultanément
+	<br><big> • </big>Les voitures ne peuvent, pour l'instant, obéir aux signaux et injonctions des agents de police. Dans ce cas, ils devraient être en disposition d'outils adaptés pour réguler la circulation ou arrêter le véhicule
+	<br><big> •</big> Le surcoût d'un véhicule autonome par rapport à un modèle "non autonome" pourrait être un frein auprès de la clientèle
+	<br><big> •</big> La possibilité pour un constructeur automobile ou un gouvernement de surveiller voire de contrôler les déplacements des usagers
+	
+	<h4 align="center"> <font size=5>Législation</font> </h4>
+	<b><u>► Etats-Unis</b></u> <a href="maps.html">(Cliquez pour voir la carte) :</a>
+	<br> Cinq Etats des Etats-Unis autotrisent les véhicules autonomes sur leur territoire :
+	<br><big>→ </big>Le Nevada
+	<br><big>→ </big>La Floride
+	<br><big>→ </big> Le Michigan
+	<br><big>→</big> Washington (District de Columbia)
+	<br><big>→ </big>Une Dizaine d'autres Etats américains envisagent de légaliser ces véhicules
+	<br><b><u>► France :</u></b>
+	<br><big>→</big> Les tests de véhicules autonomes sont acceptés depuis 2014
+	<br><b><u>► Europe :</u></b>
+	<br><big>→</big> En 2016, la Commision économique pour l'Europe des Nations Unies autorise la conduite automatisée sur les routes, à conditions qu'ils soient conformes aux règlements des Nations Unies sur les véhicules, ou qu'ils puissent être contrôlés voire désactivés par le conducteur. La conduite entièrement autonomes, sans conducteur, reste interdite à la circulation.
+	
+	<h4 align="center"> <font size=5>Classification </font></h4>
+	<b>Aux Etats-Unis la National Highway Traffic Safety Administration, agence fédérale chargée de la sécurité routière, a établi une classification des véhicules autonomes comportant 6 niveaux.</b>
+	<br><u><b>► Niveau 0:</b></u>
+	<br>Aucune automatisation : Le conducteur a un contrôle total et à tout instant des fonctions principales du véhicule.
+	<br><b><u>► Niveau 1:</b></u>
+	<br>Assistance au conducteur : L'automatisation est présente pour certaines fonctions du véhicule, mais ne font qu'assister le conducteur qui garde le contrôle global.
+	<br><b><u>► Niveau 2:</b></u>
+	<br>Automatisation de fonctions combinées : Le contrôle d'au moins deux fonctions principales est combiné dans l'automatisation pour remplacer le conducteur dans certaines situations.
+	<br><b><u>► Niveau 3:</b></u>
+	<br>Conduite autonome limitée : Le conducteur peut céder le contrôle complet du véhicule au système automatisé qui sera alors chargé de fonctions critiques de sécurité. Cependant la conduite autonome ne peut avoir lieu que dans certaines conditions environnementales et de trafic. Il est imposé au conducteur d'être en mesure de reprendre le contrôle dans un temps acceptable sur demande du système.
+	<br><b><u>► Niveau 4:</b></u>
+	<br>Conduite autonome complète sous conditions : Le véhicule est conçu pour assurer seul l'ensemble des fonctions critiques de sécurité sur un trajet complet. Le conducteur fournit une destination ou des consignes de navigation mais n'est pas tenu de se rendre disponible pour reprendre le contrôle.
+	<br><b><u>► Niveau 5:</b></u>
+	<br>Conduite complètement autonome sans l'aide de conducteur dans toutes les circonstances.
+	
+	<h4 align="center"><font size=5> Maquette</font> </h4>
+	<a href="Plan">(Cliquez pour voir le plan et le matériel)</a>
+	<br> Sur le lien ci-dessus ▲, vous pouvez obtenir le plan de notre maquette avec les cotations et les indications
+	<br> La maquette fonctionne à l'aide de la carte Arduino UNO programmée selon le programme suivant : <a href="Program.html">(Cliquez pour voir le programme)</a>
+	
+	<h4 align="center"><font size=5> Expérience</font> </h4>
+	L'objectif de notre expérience est très simple, notre maquette avancera sur une ligne droite et grâce au capteur Ultrasons le "véhicule" s'arrêtera lorsqu'il sera situé à moins de 60 cm d'un obstacle
+	
+	<h4 align="center"><font size=5> La Voiture</font> </h4>
+	<b><u>► Fonctionnement de la voiture</u></b>
+<br>´  Capteurs de la voiture autonome :
+<br>´  Les capteurs prélèvent une information active et la transforment en une information exploitable par la partie commande.
+<br>´  Les capteurs récupèrent des informations brutes sur leur environnement. Ces informations sont envoyées à des unités de traitement comme l’ordinateur qui les analyse les informations.
+<br>´  Il n’est pas obligatoire d’utiliser tous ces capteurs pour le fonctionnement de la voiture autonome mais par précaution on préfère que l’ordinateur de bord puisse vérifier/croiser ces informations. Cela est utile dans le cas où des capteurs seraient défectueux sinon la voiture recevrait des informations erronées et cela pourrait mener à un accident pouvant causer des dommages à la voiture, à ses passagers ou à son environnement.
+	<br><b><u>► Fonctions des capteurs</u></b>
+	<br>Pour se repérer dans l’espace, la voiture est équipée d’un GPS et d’un odomètre (qui permet de mesurer la distance parcourue) et d’une centrale inertielle (un instrument de mesure qui permet d’enregistrer les mouvements d’un véhicule ainsi que son orientation, sa vitesse et sa position relative). Grâce à ces trois systèmes combinés, la précision de localisation de véhicule est de 2 cm. Enfin, la voiture est équipée de caméras et de radars pour détecter avec précision les autres véhicules.  
+ 
+    Pour lire les panneaux de signalisation, une caméra est installée sur le devant du pare-brise, sous le rétroviseur. Toutefois, ce système est limité car, en temps de pluie ou en cas de coucher de soleil, les panneaux peuvent être mal interprétés par le système embarqué à cause des reflets ou de la déformation de l’image due aux gouttes de pluie.
+ 
+    L’ordinateur de conduite traite toutes les données et permet une autonomie totale à la voiture. 
+ 
+    Pour faciliter le traitement de données au système d’exploitation de la voiture, il est connecté tout d’abord avec les autres véhicules et ensuite avec les infrastructures routières. 
+  
+    La voiture communique aussi avec son environnement afin d’être connectée à internet et pour recevoir des données publicitaires et les informations du trafic routier. Ce moyen de communication permet aux voitures d’être renseignées en direct sur toute chose pouvant perturber la conduite ou bien informer le conducteur et donc d’éviter les embouteillages ou les endroits à risques. 
+<br><img src="capteurs1.png" alt="Vision des capteurs"><img src="capteurs2.png" alt="Vision des capteurs">
+
+<br><b><u>► Projet de la voiture</u></b>
+<br><b>•  </b>        Recherche d’une voiture autonome par des scientifiques et des constructeurs automobiles pour augmenter le confort.
+<br><b>•  </b>        Commercialisation d’une voiture entièrement autonome dès 2020.
+<br><b>• </b>         Capable de rouler sans l’intervention du chauffeur dans tous les environnements.
+<br><b>•     </b>     Le conducteur pourrait se reposer et être complètement déconcentré de la conduite.
+<br><b>•   </b>       Le système de stationnement autonome est un des premiers pas faits vers la voiture autonome où elle se gare automatiquement grâce aux capteurs d'angles morts.
+<br><b><u>► Sécurité routière de la voiture</u></b>
+<br>•          Environ 90% des accidents de la route sont causés par des erreurs commises par l’homme.
+<br>•          Si le véhicule ne dépend plus de l’homme mais d’un ordinateur, le risque d’accident devrait diminuer.
+<br>•          Il n'y aurait plus que des risques de dysfonctionnements techniques et mécaniques qui pourraient engendrer des accidents.
+<br>•          La difficulté de stationner en ville serait à l’origine d’environ 20% des embouteillages urbains et provoque un grand stress chez les automobilistes
+<h1 align=center>Composition de la voiture autonome :</h1>
+	<h4 align="center"><font size=5> Différents types de Capteurs</font> </h4>
+	<br><img src="Capteurs.png" alt="Les différents capteurs">
+	<br><u>Odomètre :</u> Capteur qui mesure la distance et la vitesse grâce a la rotation de la roue (P=2πR) qui permet de réguler la vitesse.
+
+	<br><b><u>► Le Capteur à Ultrasons</b></u> 
+	<br>Capteur ultrason : distance (l'onde revient au bout de 0.0057 secondes. L'onde a donc fait l'aller-retour en 0.0057 secondes, la moitié pour savoir à combien je suis de l'obstacle :  0.00285 seconde. Une fois que je sais que le son fait 340 m/seconde ainsi que le temps parcouru par l'onde, je peux deviner la distance : 340 X 0.00285 = 0.969. Je suis donc à 0.969 mètres environ ou 96.9 cm.
+ 
+<br><b>Ø </b> Il émet à intervalles réguliers des impulsions sonores servant au stationnement c’est-à-dire à petites distances.
+<br><b>Ø </b> Elles se propagent dans l’aire à la vitesse du son.
+<br><b>Ø </b> Elles se réfléchissent et reviennent sous forme d’écho au capteur.
+ 
+<br><b>Ø </b> Capteur ultrason robot :
+<br>- 2 centimètres jusqu’à 384 cm (max) avec une précision de 3mm
+<br>- vitesse du son = 340 m/s
+<br>- vitesse de l’ultrason = 330 m/s
+<br>- 10 à 20 €
+
+ <br><img src="ultrasons.png" alt="Fonctionnement d'un capteur ultrasons">
+ <br><b><u>► Le Capteur de lumière</b></u> 
+ <br>En effet, il est capable de mesurer la luminosité mais également de distinguer les couleurs.
+De plus, non content de capter la lumière, il peut aussi en émettre en servant de lampe de couleur. Toutes ces fonctionnalités vont permettre d'utiliser ce capteur de plusieurs manières différente, tel que mesurer la luminosité de l'environnement du robot, l'intensité de lumière réfléchie par une surface.
+<br><img src="lumiere.png" alt="Fonctionnement d'un capteur de lumière">
+<br><b><u>► Le Capteur Caméra</b></u> 
+<br>Ø  Appareil qui permet de filmer avec deux objectifs l’un à côté de l’autre. Appareil qui prend un nombre élevé d’images par seconde (environ 25). Permet d’obtenir une image réelle. Il existe de nombreux algorithmes permettant d’analyser les images.
+<br>Ø  Détection d’obstacles, aide pour se garer, détection de la route, détection des feux et des panneaux de signalisation.
+<br><img src="camera.png" alt="Fonctionnement d'un capteur caméra">
+<br><b><u>► Le Capteur radar</b></u> 
+<br>Ø  C’est un capteur et émetteur d’ondes radios qui permet de mesurer la distance entre le radar et un objet.
+<br>Ø  L’émetteur envoie des ondes. En fonction du temps entre l’émission et la réception et connaissant la vitesse du son, le système calcule la distance séparant le radar de l’obstacle.
+<br>Ø  Il peut alors alerter l’ordinateur central, s’il détecte un obstacle sur le chemin de la voiture. L’ordinateur (calculateur) peut alors décider de freiner ou d’arrêter le véhicule.
+<br><img src="radar.png" alt="Fonctionnement d'un capteur radar">
+<br><b><u>► Capteur LIDAR : (+60000 €) + distance (- de 1km)</b></u> 
+<br>Ø  Le LIDAR (Laser Imaging Detection And Ranging) est une technologie de mesure à distance fondée sur l’analyse des propriétés d’un faisceau de lumière renvoyé vers son émetteur. Il utilise des ondes électromagnétiques ( le résultat d’une vibration couplée d'un champ électrique et d'un champ magnétique variables dans le temps.
+Une onde électromagnétique est susceptible de se propager dans l'air comme dans le vide. Elle est capable de transporter des informations) qui permet de calculer directement un nuage de points permettant de cartographier en 3D la surface d’un site avec une précision de quelques centimètres pour une longue distance.
+<br>Ø  Mesure des distances, détection des obstacles, (on peut relier le lidar à un ordinateur qui peut créer une carte avec les informations reçues et ainsi influencer la voiture sur son déplacement).
+<br>Ø  Développé par exemple par Velodyne (entreprise en Californie) qui produit des LIDAR pour des prototypes, ou encore par l'entreprise SICK en Allemagne où elle produit de nombreux capteurs sur les véhicules autonomes en agriculture mais aussi les véhicules routiers comme le LIDAR ou autres.
+<br><img src="lidar.png" alt="Fonctionnement d'un capteur lidar"><img src="lidar2.png" alt="Fonctionnement d'un capteur lidar simplifié">
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</body>
+</html>

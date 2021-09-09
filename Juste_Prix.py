@@ -4,7 +4,6 @@ from tkinter import *
 from random import *
 from time import *
 
-n = randint(1, 100)
 triche = 1
 rtent = 5
 timer = 60
@@ -19,6 +18,7 @@ def valider():
     global rtent
     global triche
     global timer
+    global n
 
     if triche == 1:
         rep.set("TRICHEUR !")
@@ -50,9 +50,13 @@ def valider():
 
 def start():
     global timer
+    global n
+
+    n = randint(1, 100)
     timer=60
     triche = 0
     fenp.after(100, compteur)
+
 
 def compteur():
     global timer
